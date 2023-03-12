@@ -1,11 +1,11 @@
-About r-networklite
-===================
+About r-networklite-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-networklite-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/EpiModel/networkLite/
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-networklite-feedstock/blob/main/LICENSE.txt)
 
 Summary: An implementation of some of the core 'network' package functionality based on a simplified data structure that is faster in many research applications. This package is designed for back-end use in the 'statnet' family of packages, including 'EpiModel'. Support is provided for binary and weighted, directed and undirected, bipartite and unipartite networks; no current support for multigraphs, hypergraphs, or loops.
 
