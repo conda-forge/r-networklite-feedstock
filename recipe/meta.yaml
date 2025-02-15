@@ -25,14 +25,14 @@ requirements:
   host:
     - r-base
     - r-dplyr
-    - r-network >=1.18.1
-    - r-statnet.common >=4.8.0
+    - r-network >=1.19.0
+    - r-statnet.common >=4.11.0
     - r-tibble
   run:
     - r-base
     - r-dplyr
-    - r-network >=1.18.1
-    - r-statnet.common >=4.8.0
+    - r-network >=1.19.0
+    - r-statnet.common >=4.11.0
     - r-tibble
 
 test:
